@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    const basicUrl = 'https://mysterious-dusk-98078.herokuapp.com';
+    const basicUrl = 'https://tasks-app-slawomirr-github.herokuapp.com';
     const apiRoot = basicUrl + '/v1/';
     const trelloApiRoot = basicUrl + '/v1/trello/';
     const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
